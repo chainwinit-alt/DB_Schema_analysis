@@ -1,4 +1,4 @@
-```markdown
+
 ```mermaid
 erDiagram
  __EFMigrationsHistory {
